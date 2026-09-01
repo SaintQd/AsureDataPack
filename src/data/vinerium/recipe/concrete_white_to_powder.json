@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": [
+        "minecraft:white_concrete"
+    ],
+    "result": {
+        "id": "minecraft:white_concrete_powder",
+        "count": 1
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#vinerium:colored_terracotta",
+  "result": {
+    "count": 1,
+    "id": "minecraft:terracotta"
+  }
+}
