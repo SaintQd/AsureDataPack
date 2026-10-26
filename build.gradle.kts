@@ -3,6 +3,8 @@ plugins {
 }
 tasks.register<Zip>("pack-zip") {
 
+    description = "Create ZIp archive of datapack"
+
     // Name of the output zip file
     archiveFileName.set("AsureDataPack.zip")
 
